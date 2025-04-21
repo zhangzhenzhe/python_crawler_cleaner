@@ -1,0 +1,2 @@
+# python_crawler_cleaner
+python爬虫爬取北京链家二手房的二手房房源信息并进行数据清洗（数据去重和房源特征细化）
